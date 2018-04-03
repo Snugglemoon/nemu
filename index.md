@@ -1,18 +1,13 @@
-# hexo-theme-Ada
-Ada is an concise theme for Hexo.
+# Hello Wrord
 
-[预览](https://shuirong.github.io/)
-
-[已被Hexo.io收录](https://hexo.io/themes/)
-
+这里是我的博客一枚,还请多多指教.
 功能少是少了点，但都是我觉得没有必要的,就没有加.
 毕竟博客的第一要义是内容。(尽管至今没有什么干货...sigh)
 
 ---
+Ms王君
+Thank you.
 
-![index](/screenshots/Ada1.png)
-![content](/screenshots/Ada2.png)
-![index2](/screenshots/Ada3.png)
 
 ---
 # Install
