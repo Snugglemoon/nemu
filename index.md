@@ -5,11 +5,11 @@
 毕竟博客的第一要义是内容。(尽管至今没有什么干货...sigh)
 
 ---
-Mr王君
+# name：Mr.王君
 
-
-Thank you.
-
+Thank you for your support. 
+I hope to have the star in the future, 
+not what to give up its meaning.
 
 ---
 # 故事
